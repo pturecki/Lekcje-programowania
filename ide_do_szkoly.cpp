@@ -250,8 +250,8 @@ void DrawPlayer()
 
 int main(void)
 {    
-    int sw = 1280;
-    int sh = 720;
+    int sw = 0;
+    int sh = 0;
     InitWindow(sw, sh, "Do szkoly ide sobie");
     SetTargetFPS(60);
     
